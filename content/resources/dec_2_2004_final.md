@@ -10,6 +10,7 @@ description: 'This file contains the following topics:
   mechanism knowledge, and summary.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-66j-computational-cognitive-science-fall-2004/844d8ae30bc87145bf798611983c6a9f_dec_2_2004_final.pdf
 file_type: application/pdf
+parent_uid: da1d41fd-1c04-8df1-fa02-4155b8e1ee74
 resourcetype: Document
 title: dec_2_2004_final.pdf
 uid: 844d8ae3-0bc8-7145-bf79-8611983c6a9f

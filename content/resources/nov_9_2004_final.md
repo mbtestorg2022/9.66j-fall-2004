@@ -5,6 +5,7 @@ description: This file explains controlling complexity in Bayesian neural networ
   strengths and weaknesses, and cognitive relevance.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-66j-computational-cognitive-science-fall-2004/876b9e443585b9fa1a4882bab77ccacf_nov_9_2004_final.pdf
 file_type: application/pdf
+parent_uid: da1d41fd-1c04-8df1-fa02-4155b8e1ee74
 resourcetype: Document
 title: nov_9_2004_final.pdf
 uid: 876b9e44-3585-b9fa-1a48-82bab77ccacf

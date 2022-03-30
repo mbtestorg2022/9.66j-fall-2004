@@ -8,6 +8,7 @@ description: 'This file contains the following topics:
   structure, supreme court data, best structure, and developmental shift.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-66j-computational-cognitive-science-fall-2004/aaf5e9b4f29aaefbf43b5586a79678bb_nov18.pdf
 file_type: application/pdf
+parent_uid: da1d41fd-1c04-8df1-fa02-4155b8e1ee74
 resourcetype: Document
 title: nov18.pdf
 uid: aaf5e9b4-f29a-aefb-f43b-5586a79678bb

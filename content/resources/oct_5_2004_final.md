@@ -9,6 +9,7 @@ description: 'This file explains the following topics:
   the role of theories.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-66j-computational-cognitive-science-fall-2004/cb8a24f5fb2c65120a508e6e5eb5c8c7_oct_5_2004_final.pdf
 file_type: application/pdf
+parent_uid: da1d41fd-1c04-8df1-fa02-4155b8e1ee74
 resourcetype: Document
 title: oct_5_2004_final.pdf
 uid: cb8a24f5-fb2c-6512-0a50-8e6e5eb5c8c7
